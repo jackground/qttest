@@ -6,7 +6,7 @@
  *   Due Date        : 02/20/2020
  ******************************************************************/
 
-#include "bag.h"
+#include "bag.h"  // added comment here
 #include <algorithm>
 #include <iostream>
 
